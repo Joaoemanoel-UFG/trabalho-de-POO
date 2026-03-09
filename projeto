@@ -1,0 +1,44 @@
+Projeto: Aplicativo de Monitoramento de Consumo de Energia e Simulação de Sistema Fotovoltaico Residencial
+Introdução
+
+O consumo de energia elétrica em residências é um fator importante tanto do ponto de vista econômico quanto ambiental. Muitas pessoas não possuem controle detalhado sobre o uso de energia em suas casas, o que dificulta a identificação de desperdícios e o planejamento de estratégias para redução de custos. Além disso, com o crescimento do uso de sistemas de geração de energia solar fotovoltaica, torna-se cada vez mais relevante fornecer ferramentas que permitam aos usuários avaliar a viabilidade desse tipo de investimento.
+
+Diante desse contexto, propõe-se o desenvolvimento de um aplicativo capaz de monitorar e estimar o consumo de energia elétrica de uma residência, além de oferecer um simulador para dimensionamento básico de sistemas solares fotovoltaicos residenciais. O sistema permitirá que o usuário compreenda melhor seu perfil de consumo e avalie o potencial de economia ao investir em energia solar.
+
+Objetivo
+
+O objetivo deste projeto é desenvolver um aplicativo que permita ao usuário acompanhar o consumo de energia elétrica de sua residência, estimar o valor da conta de luz e simular a instalação de um sistema de geração de energia solar fotovoltaica. A aplicação buscará fornecer informações claras e acessíveis, auxiliando na tomada de decisões relacionadas ao consumo energético e ao investimento em tecnologias sustentáveis.
+
+Descrição do Sistema
+
+O aplicativo será composto por dois módulos principais: o módulo de monitoramento de consumo de energia e o módulo de simulação de sistema fotovoltaico.
+
+No módulo de monitoramento de consumo, o usuário poderá cadastrar os equipamentos elétricos presentes em sua residência, informando dados como potência do aparelho e tempo médio de uso diário. A partir dessas informações, o sistema calculará o consumo estimado de energia elétrica em quilowatt-hora (kWh), permitindo visualizar o consumo total mensal da residência e identificar quais equipamentos contribuem mais para o gasto energético.
+
+Com base no consumo total e na tarifa de energia elétrica informada pelo usuário, o aplicativo também será capaz de estimar o valor mensal da conta de luz. Dessa forma, o usuário poderá compreender melhor como o uso de determinados equipamentos influencia diretamente no custo da energia.
+
+O segundo módulo do sistema consiste em um simulador de energia solar fotovoltaica. A partir do consumo mensal calculado pelo aplicativo, o sistema estimará o tamanho necessário de uma usina solar residencial, considerando parâmetros como geração média de energia por quilowatt-pico instalado. O simulador também poderá estimar a quantidade aproximada de painéis solares necessários para suprir o consumo da residência, bem como o custo estimado da instalação do sistema.
+
+Além disso, o aplicativo apresentará uma estimativa do tempo de retorno do investimento (payback), considerando o valor atual da conta de energia elétrica e o custo aproximado da instalação do sistema solar. Essa funcionalidade permitirá ao usuário avaliar de forma simplificada a viabilidade econômica da adoção da energia solar.
+
+Tecnologias e Conceitos Utilizados
+
+O desenvolvimento do aplicativo será baseado nos princípios da Programação Orientada a Objetos (POO), utilizando conceitos como classes, objetos, encapsulamento, herança e abstração. A estrutura do sistema será organizada de forma modular, permitindo a representação de elementos como equipamentos elétricos, residência e sistema fotovoltaico por meio de classes específicas.
+
+Essa abordagem facilita a organização do código, a reutilização de componentes e a manutenção do sistema, além de representar de forma mais clara os elementos do problema abordado.
+
+Conclusão
+
+O desenvolvimento deste aplicativo busca unir conceitos de programação orientada a objetos com conhecimentos da área de engenharia elétrica, especialmente relacionados ao consumo de energia e à geração fotovoltaica. A ferramenta proposta pode auxiliar usuários a compreender melhor seu perfil de consumo energético e avaliar alternativas para redução de custos, além de incentivar o uso de fontes de energia renováveis.
+
+Dessa forma, o projeto apresenta não apenas um exercício de aplicação de conceitos de programação, mas também uma solução tecnológica voltada para eficiência energética e sustentabilidade.
+
+Se quiser, eu também posso te ajudar a criar:
+
+a justificativa do projeto (parte que professores adoram)
+
+os requisitos funcionais e não funcionais
+
+o diagrama UML das classes
+
+ou até o roteiro da apresentação do trabalho (para você tirar nota alta).
